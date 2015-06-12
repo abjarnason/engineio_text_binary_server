@@ -1,0 +1,16 @@
+{
+  "name": "engineio_text_binary_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "engine.io": "^1.5.1",
+    "engine.io-client": "^1.5.1",
+    "ws": "^0.7.2"
+  }
+}
